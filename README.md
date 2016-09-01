@@ -12,8 +12,7 @@ List of all necesaary parts is include with website links in the parts list fold
 Both electronic schematics and CAD files are in the schematic folder.
 
 ##Software
-Software is written in arduino software. 
-To download the arduino software go to: https://www.arduino.cc/en/Main/Software
+Software is written in arduino software and is found in the software folder. To download the arduino software go to: https://www.arduino.cc/en/Main/Software
 
 ## Appendix 
 All electronic spreadsheets, website links of parts and other useful informatioin is inside the appendeix folder.

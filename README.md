@@ -8,10 +8,10 @@ WALIII Design:
 https://github.com/WALIII/FreedomScope/tree/master/ActiveComm
 
 ### Parts List:
-
+sad
 #### Schematics
-
+dsa
 ##### Appendix 
-
+dsa
 
 

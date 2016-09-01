@@ -6,9 +6,10 @@ WALIII Design:
 https://github.com/WALIII/FreedomScope/tree/master/ActiveComm
 
 ## Parts List:
-
+List of all necesaary parts is include with website links in the parts list folder.
 
 ## Schematics
+Both electronic schematics and CAD files are in the schematic folder.
 
 ##Software
 Software is written in arduino software. 

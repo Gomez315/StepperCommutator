@@ -9,6 +9,10 @@ https://github.com/WALIII/FreedomScope/tree/master/ActiveComm
 
 ## Schematics
 
+##Software
+Software is written in arduino software. 
+To download the arduino go to: https://www.arduino.cc/en/Main/Software
+
 ## Appendix 
 All electronic spreadsheets, website links of parts and other useful informatioin is inside the appendeix folder.
 

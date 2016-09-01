@@ -1,6 +1,6 @@
 # StepperCommutator
 
-An active commutator that uses a stepper motor and driver from makeblock with arduino code. Based on WALIII original design.
+An active commutator that uses parts from makeblock kits and is controlled with arduino code. Based on WALIII original design.
 
 ## Inspiration
 

@@ -7,11 +7,12 @@ https://github.com/WALIII/FreedomScope/tree/master/ActiveComm
 
 ## Parts List:
 
+
 ## Schematics
 
 ##Software
 Software is written in arduino software. 
-To download the arduino go to: https://www.arduino.cc/en/Main/Software
+To download the arduino software go to: https://www.arduino.cc/en/Main/Software
 
 ## Appendix 
 All electronic spreadsheets, website links of parts and other useful informatioin is inside the appendeix folder.

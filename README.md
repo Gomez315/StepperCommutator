@@ -7,11 +7,11 @@ An active commutator that uses a stepper motor and driver from makeblock with ar
 WALIII Design: 
 https://github.com/WALIII/FreedomScope/tree/master/ActiveComm
 
-### Parts List:
-sad
-#### Schematics
-dsa
-##### Appendix 
-dsa
+## Parts List:
+
+## Schematics
+
+## Appendix 
+
 
 
